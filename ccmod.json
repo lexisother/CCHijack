@@ -1,0 +1,8 @@
+{
+  "id": "cc-hijack",
+  "version": "1.0.0",
+  "name": "CCHijack",
+  "description": "Hijacking?",
+  "plugin": "plugin.js",
+  "preload": "preload.js"
+}
