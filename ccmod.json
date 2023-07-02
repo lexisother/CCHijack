@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "name": "CCHijack",
   "description": "Hijacking?",
-  "plugin": "plugin.js",
-  "preload": "preload.js"
+  "plugin": "cchijack/plugin.js",
+  "modPrefix": "cchijack"
 }
